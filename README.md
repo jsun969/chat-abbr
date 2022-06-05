@@ -9,6 +9,6 @@
 | ofc      | of course         | 当然     |
 | thx      | thanks            | 谢谢     |
 | idk      | I don't know      | 我不知道 |
-| oki      | okay              | 好的     |
+| oki      | Okay              | 好的     |
 | np       | no problem        | 没问题   |
 | ez       | easy              | 简单     |
