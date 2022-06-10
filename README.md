@@ -14,3 +14,5 @@
 | ez        | easy               | 简单       |
 | afair     | as far as I recall | 据我所知   |
 | lgtm      | looks good to me   | 我觉得不错 |
+| sry       | Sorry              | 对不起     |
+| cuz       | because            | 因为       |
